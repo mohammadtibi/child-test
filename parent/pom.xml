@@ -7,7 +7,4 @@
 	<name>ParentExample</name>
 	<packaging>pom</packaging>
 
-<modules>
-        <module>child</module>
-    </modules>
 </project>
