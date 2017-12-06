@@ -16,4 +16,4 @@
     <groupId>com.example</groupId>
     <name>MavenExamples Child POM</name>
     <packaging>jar</packaging>
-
+<project/>
